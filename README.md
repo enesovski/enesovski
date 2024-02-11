@@ -1,4 +1,9 @@
-### Hi there 👋
+### Hi,
+### I am Enes Ceran,
+### I am an active student at Bilkent University in Turkey
+### I am a Game developer and AI developer
+### Currently I'm working on a game project
+### You can reach my code I shared via GitHub
 
 <!--
 **enesovski/enesovski** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
