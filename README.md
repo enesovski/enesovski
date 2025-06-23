@@ -1,8 +1,15 @@
-### Hi, 
-### I am Enes Ceran,
-### I am an active student at Bilkent University in Turkey
-### I am a game developer and shader artist.
-### Currently, I'm working on a game project called "Elysium". You can check out its steam link:
-https://store.steampowered.com/app/2354810/Elysium/
+# Hey, I'm Enes Ceran
 
-### You can reach my code I shared via GitHub
+I'm a computer science student at Bilkent University, and I’ve been diving deep into game development over the past few years.
+
+Right now, I’m working as a developer at [Artifika Games](https://artifikagames.com/), where we're building **Elysium** — a multiplayer survival game for PC platform. 
+---
+
+##  What I'm Working On
+
+###  [Elysium](https://store.steampowered.com/app/2870100/Elysium/)
+A co-op open-world survival game with crafting, exploration, and a mysterious ancient world to uncover.  
+Built in Unity URP (C#) with Steamworks for networking.
+
+
+
