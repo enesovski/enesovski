@@ -2,7 +2,7 @@
 
 I'm a game developer who enjoys working on both sides of a game: the things players interact with and the systems running behind them. Most of my work is in Unity, somewhere between gameplay programming, AI, and real-time graphics.
 
-[**Visit my website**](https://enesovski.vercel.app) · [LinkedIn](https://www.linkedin.com/in/enes-ceran)
+[**Visit my website**](https://enesovski.vercel.app) 
 
 ---
 
@@ -13,8 +13,6 @@ I'm a game developer who enjoys working on both sides of a game: the things play
 A co-op open-world survival game I've spent years building with the team, Artifika Games. I worked on gameplay systems, AI, multiplayer, and shaders.
 
 **Exhibited at Gamescom 2026.**
-
-**[Play the demo / Wishlist on Steam](https://store.steampowered.com/app/2354810/Elysium/)**
 
 ---
 
