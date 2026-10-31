@@ -4,11 +4,9 @@ I'm a game developer who enjoys working on both sides of a game: the things play
 
 [**Visit my website**](https://enesovski.vercel.app) 
 
----
-
 ## 🎮 PLAY MY GAME
 
-# [ELYSIUM ON STEAM](https://store.steampowered.com/app/2354810/Elysium/)
+### [ELYSIUM ON STEAM](https://store.steampowered.com/app/2354810/Elysium/)
 
 A co-op open-world survival game I've spent years building with the team, Artifika Games. I worked on gameplay systems, AI, multiplayer, and shaders.
 
