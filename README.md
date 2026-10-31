@@ -1,29 +1,49 @@
 # Hey, I'm Enes!
 
-I make games and tools in Unity, mostly somewhere between gameplay programming and graphics. I like building things that feel good to play and are just as fun to dig into under the hood.
+I'm a game developer who enjoys working on both sides of a game: the things players interact with and the systems running behind them. Most of my work is in Unity, somewhere between gameplay programming, AI, and real-time graphics.
 
-[**Play my game: Elysium On Steam**](https://store.steampowered.com/app/2354810/Elysium/) · [**Visit my website**](https://enesovski.vercel.app) · [**LinkedIn**](https://www.linkedin.com/in/enes-ceran)
+[**Visit my website**](https://enesovski.vercel.app) · [LinkedIn](https://www.linkedin.com/in/enes-ceran)
 
 ---
 
-## Elysium
+## 🎮 PLAY MY GAME
 
-A co-op open-world survival game set on an abandoned island full of ancient ruins and corrupted machines you can fight, or tame and team up with. I worked on it as a developer: gameplay systems, AI, multiplayer and a lot of shaders. We exhibited Elysium at **Gamescom 2026**.
+# [ELYSIUM ON STEAM](https://store.steampowered.com/app/2354810/Elysium/)
 
-## Stuff I've built
+A co-op open-world survival game I've spent years building with the team, Artifika Games. I worked on gameplay systems, AI, multiplayer, and shaders.
 
-- [**Arch AI**](https://github.com/enesovski/Arch-AI): a modular Unity AI framework mixing behavior trees and utility scoring
-- [**UV Mask Painter**](https://github.com/enesovski/uv-mask-painter): paint UV mask textures right in the Scene view (1,500+ downloads on the Asset Store)
-- [**World Interaction System**](https://github.com/enesovski/world-interaction-system): water, snow and foliage that react to the player, built with HLSL and compute shaders
-- [**Unity Map System**](https://github.com/enesovski/unity-map-system): fog of war, area discovery and quest markers
-- [**atmosdx12**](https://github.com/enesovski/atmosdx12): real-time atmospheric rendering with C++20 and Direct3D 12
-- [**Rail Sort**](https://play.google.com/store/apps/details?id=com.udogames.railsort): a mobile sort puzzle made in Unity, live on Google Play
+**Exhibited at Gamescom 2026.**
 
-## What I use
+**[Play the demo / Wishlist on Steam](https://store.steampowered.com/app/2354810/Elysium/)**
 
-Mostly **Unity** and **C#** for gameplay systems, AI and tools, **HLSL**, **OpenGL / WebGL** for real-time visuals, and **C++** when I want to get closer to the metal.
+---
 
-## Let's talk
+## What I'm into
 
-Games, graphics, weird ideas, or anything else, I'm always up for a chat.
-ceran.enesovski@gmail.com
+- **Gameplay Programming** — combat, player systems, multiplayer, and making interactions feel right.
+- **Real-Time Graphics & Shaders** — HLSL, compute shaders, rendering, and visual effects.
+- **Game AI** — behavior trees, utility AI, navigation, and NPC systems.
+- **Tools & Software Architecture** — reusable systems, editor tools, and performance-focused code.
+
+I mainly work with **Unity** and **C#**, and I've also been exploring graphics programming with **C++**, **DirectX 12**, and **OpenGL / WebGL**.
+
+## Selected projects
+
+- **[Arch AI](https://github.com/enesovski/Arch-AI)** — A modular AI framework combining behavior trees and utility AI.
+- **[World Interaction System](https://github.com/enesovski/world-interaction-system)** — Interactive water, snow, and foliage using shaders and compute shaders.
+- **[Unity Map System](https://github.com/enesovski/unity-map-system)** — Map exploration, fog of war, discovery, and quest markers.
+- **[UV Mask Painter](https://github.com/enesovski/uv-mask-painter)** — A Unity editor tool for painting UV masks directly in the Scene view.
+- **[atmosdx12](https://github.com/enesovski/atmosdx12)** — My ongoing experiments with DirectX 12 and atmospheric rendering.
+- **[Rail Sort](https://play.google.com/store/apps/details?id=com.udogames.railsort)** — A mobile sorting puzzle game I developed in Unity during an internship, available on Google Play.
+
+## Get in touch
+
+Always happy to talk about games, graphics, or interesting projects.
+
+[Website](https://enesovski.vercel.app) · [LinkedIn](https://www.linkedin.com/in/enes-ceran) · [Email](mailto:ceran.enesovski@gmail.com)
+
+---
+
+### A little beyond code 📷
+
+I also enjoy photography. Feel free to [take a look at my photos](https://vsco.co/enesovski0/gallery)!
